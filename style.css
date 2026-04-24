@@ -424,5 +424,6 @@ img {
     .butao {
         font-size: 17px;
         padding: 10px 22px;
+        gap : 10px;
     }
 }
