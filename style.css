@@ -422,8 +422,15 @@ img {
     }
 
     .butao {
-        font-size: 17px;
-        padding: 10px 22px;
-        gap : 10px;
-    }
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 12px 30px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
 }
